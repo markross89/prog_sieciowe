@@ -1,0 +1,6 @@
+Zawartosc testowa, interacja numer 0.
+Zawartosc testowa, interacja numer 1.
+Zawartosc testowa, interacja numer 2.
+Zawartosc testowa, interacja numer 3.
+Zawartosc testowa, interacja numer 4.
+ 
